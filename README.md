@@ -20,6 +20,15 @@ Stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briglx&count_private=true&show_icons=true&layout=compact" />
 </a>
 
+Interesting Projects
+--------------------
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=briglx&repo=AzureBillingReports)](https://github.com/briglx/AzureBillingReports)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=briglx&repo=streaming_logic_app_demo)](https://github.com/briglx/streaming_logic_app_demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamoreauxlab&repo=srpenergy-api-client-python)](https://github.com/lamoreauxlab/srpenergy-api-client-python)
+
+
+
+
 <!--
 **briglx/briglx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
