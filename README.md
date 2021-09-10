@@ -9,6 +9,7 @@ Let's Connect
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" alt="Twitter" />](https://twitter.com/brig_lamoreaux)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/github.svg" alt="GitHub" />](https://github.com/briglx/)
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" />](https://www.linkedin.com/in/briglamoreaux/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/wordpress.svg" alt="Blog" />](https://briglamoreaux.wordpress.com/)
 
 Stats
 -----
