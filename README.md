@@ -1,4 +1,7 @@
-### Hi there 👋
+Brig Lamoreaux
+==============
+
+Hi! I'm Brig Lamoreaux. I’m a hands-on architect who enjoys coding and a passionate learner.
 
 Let's Connect
 -------------
