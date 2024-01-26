@@ -15,12 +15,8 @@ Stats
 -----
 
 <a href="https://github.com/briglx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=briglx&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=briglx&count_private=true&show_icons=true&hide_rank=true" />
 </a>
-<a href="https://github.com/briglx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briglx&exclude_repo=core,srp_energy,brands&count_private=true&show_icons=true&layout=compact&hide=jupyter notebook" />
-</a>
-
 
 <!--
 **briglx/briglx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
